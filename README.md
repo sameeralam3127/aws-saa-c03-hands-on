@@ -1,8 +1,6 @@
-## 🧭 AWS SAA-C03 Hands-On Project Roadmap (100 Projects)
+## AWS SAA-C03 Hands-On Project Roadmap (100 Projects)
 
----
-
-### 📦 **1. Core AWS Services (15 Projects)**
+### **1. Core AWS Services (15 Projects)**
 
 _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
@@ -24,7 +22,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 🔒 **2. Security, Identity, and Compliance (10 Projects)**
+### **2. Security, Identity, and Compliance (10 Projects)**
 
 16. Create IAM users, groups, roles, and policies
 17. Configure MFA for IAM users
@@ -39,7 +37,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 🛠️ **3. High Availability & Fault Tolerance (10 Projects)**
+### **3. High Availability & Fault Tolerance (10 Projects)**
 
 26. Deploy a highly available 3-tier web app
 27. Use Route 53 with failover routing
@@ -54,7 +52,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 🧩 **4. Serverless & Event-driven Architectures (10 Projects)**
+### **4. Serverless & Event-driven Architectures (10 Projects)**
 
 36. Write a Lambda function to resize images in S3
 37. Create API Gateway + Lambda + DynamoDB CRUD API
@@ -69,7 +67,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 🛠️ **5. Application Integration & Messaging (10 Projects)**
+### **5. Application Integration & Messaging (10 Projects)**
 
 46. Create a decoupled architecture using SQS
 47. Publish/Subscribe system with SNS and SQS
@@ -84,7 +82,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 💾 **6. Databases (10 Projects)**
+### **6. Databases (10 Projects)**
 
 56. Launch RDS MySQL/PostgreSQL
 57. Migrate database using DMS
@@ -99,7 +97,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### ☁️ **7. Cost Optimization & Well-Architected (5 Projects)**
+### **7. Cost Optimization & Well-Architected (5 Projects)**
 
 66. Set up a budget in AWS Budgets
 67. Use Cost Explorer to analyze usage
@@ -109,7 +107,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 🧪 **8. Monitoring, Logging, and Automation (10 Projects)**
+### **8. Monitoring, Logging, and Automation (10 Projects)**
 
 71. Create a custom CloudWatch metric
 72. Use CloudWatch Logs with EC2 and Lambda
@@ -124,7 +122,7 @@ _Focus: Compute, Networking, Storage, and Monitoring Basics_
 
 ---
 
-### 🎯 **9. Real-World Scenarios & Mini Projects (20 Projects)**
+### **9. Real-World Scenarios & Mini Projects (20 Projects)**
 
 81. Build a photo album app (S3, Lambda, API Gateway, DynamoDB)
 82. Create a URL shortener (Lambda, DynamoDB, API Gateway)
